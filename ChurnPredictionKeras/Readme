@@ -1,1 +1,5 @@
-Churn Prediction
+Churn Prediction using Neural Networks
+
+The goal is to predict customer churn for a bank. We want to predict which customera are going to leave out bank service.
+Dataset is named
+
