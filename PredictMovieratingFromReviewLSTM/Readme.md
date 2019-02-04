@@ -49,3 +49,7 @@ We can easily add a one-dimensional CNN and max pooling layers after the Embeddi
  feed the consolidated features to the LSTM. We can use a smallish set of 32 features with a small
  filter length of 3. The pooling layer can use the standard length of 2 to halve the feature map size.
 
+### Accuracy
+
+Accuracy: 85.26%
+
